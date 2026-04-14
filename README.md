@@ -28,6 +28,17 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This work is licensed under CC-BY-SA-4.0.
 
 
+## Professional Compliance Services
+
+Need help building a security awareness training program? **Petronella Technology Group** provides comprehensive cybersecurity services:
+
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/) - Managed security and assessments
+- [CMMC Compliance Guide](https://petronellatech.com/compliance/cmmc-compliance-guide/) - Full CMMC Level 2 preparation
+- [HIPAA Compliance Services](https://petronellatech.com/compliance/hipaa-compliance/) - Healthcare security assessments
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - AI infrastructure with compliance built in
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm headquartered in Raleigh, NC. Our entire team holds CMMC Registered Practitioner credentials. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## About Petronella Technology Group
 
 [Petronella Technology Group (PTG)](https://petronellatech.com) has provided cybersecurity,
